@@ -9,5 +9,5 @@ go featrues
 [benchmark](https://github.com/craftsdong/go-featrues/blob/master/string_test.go) 
 
 ### capacity 
-1. map ,slice 在能预知容量的情况下指定cap，可以有效减少动态伸缩和GC
+1. map ,slice 在能预知容量的情况下指定cap，可以有效减少动态伸缩和GC 
 [benchmark](https://github.com/craftsdong/go-featrues/blob/master/capacity_test.go)
