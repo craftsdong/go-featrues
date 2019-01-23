@@ -11,3 +11,7 @@ go featrues
 ### capacity 
 1. map ,slice 在能预知容量的情况下指定cap，可以有效减少动态伸缩和GC 
 [benchmark](https://github.com/craftsdong/go-featrues/blob/master/capacity_test.go)
+
+### panic 
+[handle](https://golang.org/ref/spec#Handling_panics) 
+[running](https://golang.org/ref/spec#Run_time_panics)
