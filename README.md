@@ -13,5 +13,5 @@ go featrues
 [benchmark](https://github.com/craftsdong/go-featrues/blob/master/capacity_test.go)
 
 ### panic 
-[handle](https://golang.org/ref/spec#Handling_panics) 
-[running](https://golang.org/ref/spec#Run_time_panics)
+1. [handle](https://golang.org/ref/spec#Handling_panics) 
+2. [running](https://golang.org/ref/spec#Run_time_panics)
