@@ -19,4 +19,4 @@ go featrues
 持续运行的守候型服务，需要考虑pinic-recover情况，以免服务运行越来越少，最后可能无服务可用
 1. [错误示范](https://github.com/craftsdong/go-featrues/blob/master/goroutniue_incorrect.go) 
 2. [正确示范](https://github.com/craftsdong/go-featrues/blob/master/goroutniue_correct.go) 
-3. [正确示范结构](https://github.com/craftsdong/continuous_daemon) 
+3. [正确示范结构](https://github.com/craftsdong/continuous_daemon)  
