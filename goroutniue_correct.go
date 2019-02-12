@@ -20,7 +20,7 @@ func New(bufferSize, parallel uint, run func(interface{}), err func(interface{})
 		run:run,
 		err:err,
 	}
-	s.Consume()
+	go s.Consume()
 	return s
 }
 
