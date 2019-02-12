@@ -15,3 +15,7 @@ go featrues
 ### panic 
 1. [handle](https://golang.org/ref/spec#Handling_panics) 
 2. [running](https://golang.org/ref/spec#Run_time_panics)
+### recover in goroutniue
+持续运行的守候型服务，需要考虑pinic-recover情况，以免服务运行越来越少，最后可能无服务可用
+1. [错误示范]()
+2. [正确示范]()
